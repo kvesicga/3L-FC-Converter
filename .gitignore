@@ -1,0 +1,8 @@
+# Altium Designer Ignore List
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.Zip
+*.OutJob
+*.PrjPcbStructure

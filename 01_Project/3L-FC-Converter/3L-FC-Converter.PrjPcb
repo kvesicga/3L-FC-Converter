@@ -137,7 +137,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EHDQQCKK
 
 [Document6]
-DocumentPath=..\..\02_Libraries\Symbols\Lib_SiC.SchLib
+DocumentPath=..\..\02_Libraries\Symbols\IMBG120R026M2H.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,10 +151,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SMLGEFCI
+DocumentUniqueId=AKLEDERQ
 
 [Document7]
-DocumentPath=..\..\02_Libraries\Symbols\Lib_HVCaps.SchLib
+DocumentPath=..\..\02_Libraries\Footprints\TO127P1500X470-8N-2-V1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,10 +168,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BCALYCTK
+DocumentUniqueId=FQDQMENA
 
 [Document8]
-DocumentPath=..\..\02_Libraries\Symbols\Lib_Resistors.SchLib
+DocumentPath=..\..\02_Libraries\Symbols\B25654A_XX_001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,10 +185,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HGRFQQYQ
+DocumentUniqueId=QVHTEFQI
 
 [Document9]
-DocumentPath=..\..\02_Libraries\Symbols\Lib_Filters.SchLib
+DocumentPath=..\..\02_Libraries\Footprints\B25654A_XX_001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,10 +202,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UVOZMHPN
+DocumentUniqueId=YIJMENMS
 
 [Document10]
-DocumentPath=..\..\02_Libraries\Lib_Diodes.SchLib
+DocumentPath=..\..\02_Libraries\Footprints\CGA9P4X7T2W105K250KE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -219,10 +219,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VHWNXBXF
+DocumentUniqueId=PDGMCLSS
 
 [Document11]
-DocumentPath=..\..\02_Libraries\Lib_Connectors.SchLib
+DocumentPath=..\..\02_Libraries\Symbols\CGA9P4X7T2W105K250KE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,10 +236,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PQUIBWGD
+DocumentUniqueId=NYJVSWRM
 
 [Document12]
-DocumentPath=..\..\02_Libraries\Footprints\Lib_SiC.PcbLib
+DocumentPath=..\..\02_Libraries\Symbols\HCJ1206ZT0R00.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,10 +253,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=USQOWGOM
+DocumentUniqueId=ASOACEBW
 
 [Document13]
-DocumentPath=..\..\02_Libraries\Footprints\Lib_HVCaps.PcbLib
+DocumentPath=..\..\02_Libraries\Footprints\HCJ1206ZT0R00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,10 +270,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XOIBMTYN
+DocumentUniqueId=LYSTDKAL
 
 [Document14]
-DocumentPath=..\..\02_Libraries\Footprints\Lib_Resistors.PcbLib
+DocumentPath=..\..\02_Libraries\Symbols\AF0805FR-07130RL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,10 +287,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LFXFHPEU
+DocumentUniqueId=ILGHAHNW
 
 [Document15]
-DocumentPath=..\..\02_Libraries\Footprints\Lib_Filters.PcbLib
+DocumentPath=..\..\02_Libraries\Footprints\AF0805FR-07130RL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -304,10 +304,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TUNFXJKX
+DocumentUniqueId=JMQHBKWM
 
 [Document16]
-DocumentPath=..\..\02_Libraries\Footprints\Lib_Diodes.PcbLib
+DocumentPath=..\..\02_Libraries\Footprints\MPZ2012S300AT000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -321,10 +321,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WNHGNBLA
+DocumentUniqueId=RJDANQVY
 
 [Document17]
-DocumentPath=..\..\02_Libraries\Footprints\Lib_Connectors.PcbLib
+DocumentPath=..\..\02_Libraries\Symbols\MPZ2012S300AT000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -338,7 +338,41 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RUFEIMQG
+DocumentUniqueId=VQKMMJBO
+
+[Document18]
+DocumentPath=..\..\02_Libraries\Footprints\62300421021.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=..\..\02_Libraries\Symbols\6230XX21021_62300421021.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources

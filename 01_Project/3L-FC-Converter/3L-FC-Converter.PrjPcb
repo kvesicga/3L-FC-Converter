@@ -188,23 +188,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QVHTEFQI
 
 [Document9]
-DocumentPath=..\..\02_Libraries\Footprints\B25654A9756K001.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YIJMENMS
-
-[Document10]
 DocumentPath=..\..\02_Libraries\Footprints\CGA9Q1C0G3A223J280KC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDGMCLSS
 
-[Document11]
+[Document10]
 DocumentPath=..\..\02_Libraries\Symbols\CGA9Q1C0G3A223J280KC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYJVSWRM
 
-[Document12]
+[Document11]
 DocumentPath=..\..\02_Libraries\Symbols\HCJ1206ZT0R00.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASOACEBW
 
-[Document13]
+[Document12]
 DocumentPath=..\..\02_Libraries\Footprints\HCJ1206ZT0R00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYSTDKAL
 
-[Document14]
+[Document13]
 DocumentPath=..\..\02_Libraries\Symbols\AF0805FR-07130RL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILGHAHNW
 
-[Document15]
+[Document14]
 DocumentPath=..\..\02_Libraries\Footprints\AF0805FR-07130RL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMQHBKWM
 
-[Document16]
+[Document15]
 DocumentPath=..\..\02_Libraries\Footprints\MPZ2012S300AT000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJDANQVY
 
-[Document17]
+[Document16]
 DocumentPath=..\..\02_Libraries\Symbols\MPZ2012S300AT000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -340,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQKMMJBO
 
-[Document18]
+[Document17]
 DocumentPath=..\..\02_Libraries\Footprints\62300421021.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -357,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=..\..\02_Libraries\Symbols\62300421021.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -374,7 +357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWYMNWYB
 
-[Document20]
+[Document19]
 DocumentPath=..\..\02_Libraries\Footprints\B32776Z4406K000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -391,7 +374,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLFRUSOC
 
-[Document21]
+[Document20]
 DocumentPath=..\..\02_Libraries\Symbols\B32776Z4406K000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -408,7 +391,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRGDBZRN
 
-[Document22]
+[Document21]
 DocumentPath=..\..\02_Libraries\Footprints\MKP1848510084K2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -425,7 +408,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URIPLKCP
 
-[Document23]
+[Document22]
 DocumentPath=..\..\02_Libraries\Symbols\MKP1848510084K2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -442,7 +425,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYOLHKUA
 
-[Document24]
+[Document23]
 DocumentPath=..\..\02_Libraries\Symbols\STTH112U.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -459,7 +442,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=..\..\02_Libraries\Footprints\STTH112U.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -476,7 +459,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=..\..\02_Libraries\Footprints\TFCR0603-10W-E-1001BT-1K.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -493,7 +476,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=..\..\02_Libraries\Symbols\TFCR0603-10W-E-1001BT-1K.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -510,8 +493,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=..\..\02_Libraries\Footprints\1379-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OBYTNKPU
+
+[Document28]
+DocumentPath=..\..\02_Libraries\Symbols\1379-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -528,7 +528,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=..\..\02_Libraries\Symbols\1379-1.SchLib
+DocumentPath=..\..\02_Libraries\Footprints\B25654A9756K001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -542,7 +542,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YIJMENMS
 
 [Configuration1]
 Name=Sources
